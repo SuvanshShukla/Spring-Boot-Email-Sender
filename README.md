@@ -14,5 +14,5 @@ I used multiple links and videos to help me learn this. I will try to link them 
 - before running the project you will need to correctly fill in the details of the application.properties file
 - then you must enter the correct "to" and "from" fields in the SendEmailService.java file
 - after entering the correct fields you should be able to run it 
-- when you run it you should see a message -> "Mail Sent..."
+- when you run it you should see a message -> "Mail Sent..." in your terminal/console
 - upon seeing the message, it means that the program worked
